@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- I'm student
+- 😄 learning to program
+- 🤔 I’m looking for help with programming language
+-  📫 How to reach me: lumasantus04@gmail.com
 <!--
 **Lucianamar/Lucianamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
